@@ -2,7 +2,7 @@
 
 ## Vue JS
 - [Vue guide](https://vuejs.org/v2/guide/)
-- [Scrimba interactive tutorial)[https://scrimba.com/p/pXKqta/cEQe4SJ]
+- [Scrimba interactive tutorial](https://scrimba.com/p/pXKqta/cEQe4SJ)
 
 ## Resources
 
