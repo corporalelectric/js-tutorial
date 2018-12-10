@@ -43,7 +43,18 @@
               "aot": true,
               "extractLicenses": true,
               "vendorChunk": false,
+<<<<<<< HEAD
               "buildOptimizer": true
+=======
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                }
+              ]
+>>>>>>> a3e23af83cb34f16f81ab084c7b2548d5d0bf351
             }
           }
         },
@@ -98,6 +109,10 @@
     "angular-tour-of-heroes-e2e": {
       "root": "e2e/",
       "projectType": "application",
+<<<<<<< HEAD
+=======
+      "prefix": "",
+>>>>>>> a3e23af83cb34f16f81ab084c7b2548d5d0bf351
       "architect": {
         "e2e": {
           "builder": "@angular-devkit/build-angular:protractor",
