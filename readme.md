@@ -1,5 +1,8 @@
 # Javascript tutorial
 
+## Node JS
+[Sindresorhus's guide to install NPM packages without sudo on macOS](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
+
 ## Resources
 
 - [Air BnB JS style guide](https://github.com/airbnb/javascript)
