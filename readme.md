@@ -10,3 +10,8 @@
 - [Express JS notes](https://gitlab.com/oscarneedscoffee/notes/blob/master/software/javascript/express-js.md)
 - [My JS notes](https://gitlab.com/oscarneedscoffee/notes/blob/master/software/javascript/javascript.md)
 
+### Online Editors and Sandboxes
+
+- [JS Bin](https://jsbin.com)
+- [CodePen](https://codepen.io)
+
