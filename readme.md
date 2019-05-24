@@ -10,7 +10,7 @@ This repo is for personal learning so many of the projects are incomplete, and t
 
 2. Go to one of the many online code code editing sites. I've been enjoying CodePen for its simplicity. Here is a [list of online editors](#online-editors-and-sandboxes)
 
-3. Start coding. I have included some examples from [Colin's ES6 tutorials](https://github.com/ocpineda/esNextBreakfast). Clone it, and break things on your local machine or go nuts with the online editors in step 2
+3. Start coding. I have included some examples from [Colin's ES6 tutorials](esNextBreakfast). Clone it, and break things on your local machine or go nuts with the online editors in step 2
 
 ## Stuff I played with
 
